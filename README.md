@@ -238,4 +238,4 @@ When presenting this project in your assessment, highlight these key design deci
 ---
 
 ## 📄 License
-Created for AI Growth Python Skills Assessment &bull; Developed by Shashank Chilukuri.
+Created for AI Growth Python Skills Assessment &bull; Developed by Chagara Koushik.
